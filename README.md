@@ -1,4 +1,4 @@
-# WeatherWallpaper.WeatherUnderground
+# DEPRECATED WeatherWallpaper.WeatherUnderground
 ## March 2019 API was shut down to non base station owners. No longer supported
 Weather Underground Plugin for Weather Wallpaper
 
